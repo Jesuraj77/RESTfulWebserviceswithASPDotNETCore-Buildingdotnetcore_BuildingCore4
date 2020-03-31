@@ -1,0 +1,11 @@
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.DataLayer\bin\Debug\netcoreapp2.2\BuildingCore.Entities.dll
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.DataLayer\obj\Debug\netcoreapp2.2\BuildingCore.DataLayer.csprojAssemblyReference.cache
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.DataLayer\obj\Debug\netcoreapp2.2\BuildingCore.DataLayer.AssemblyInfoInputs.cache
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.DataLayer\obj\Debug\netcoreapp2.2\BuildingCore.DataLayer.AssemblyInfo.cs
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.DataLayer\bin\Debug\netcoreapp2.2\BuildingCore.DataLayer.deps.json
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.DataLayer\bin\Debug\netcoreapp2.2\BuildingCore.DataLayer.dll
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.DataLayer\bin\Debug\netcoreapp2.2\BuildingCore.DataLayer.pdb
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.DataLayer\bin\Debug\netcoreapp2.2\BuildingCore.Entities.pdb
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.DataLayer\obj\Debug\netcoreapp2.2\BuildingCore.DataLayer.csproj.CopyComplete
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.DataLayer\obj\Debug\netcoreapp2.2\BuildingCore.DataLayer.dll
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.DataLayer\obj\Debug\netcoreapp2.2\BuildingCore.DataLayer.pdb

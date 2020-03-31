@@ -1,0 +1,8 @@
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.Entities\bin\Debug\netcoreapp2.2\BuildingCore.Entities.deps.json
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.Entities\bin\Debug\netcoreapp2.2\BuildingCore.Entities.dll
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.Entities\obj\Debug\netcoreapp2.2\BuildingCore.Entities.AssemblyInfoInputs.cache
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.Entities\obj\Debug\netcoreapp2.2\BuildingCore.Entities.AssemblyInfo.cs
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.Entities\bin\Debug\netcoreapp2.2\BuildingCore.Entities.pdb
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.Entities\obj\Debug\netcoreapp2.2\BuildingCore.Entities.dll
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.Entities\obj\Debug\netcoreapp2.2\BuildingCore.Entities.pdb
+H:\bhuvana\24-04\BuildingCore2\BuildingCore.Entities\obj\Debug\netcoreapp2.2\BuildingCore.Entities.csprojAssemblyReference.cache
